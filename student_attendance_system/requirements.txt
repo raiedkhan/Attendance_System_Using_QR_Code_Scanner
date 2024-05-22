@@ -24,7 +24,7 @@ MarkupSafe==1.1.1
 mysqlclient==1.4.6
 Pillow==7.1.1
 pycparser==2.20
-PyMySQL==0.9.3
+PyMySQL==1.1.1
 qrcode==6.1
 requests==2.23.0
 six==1.14.0
